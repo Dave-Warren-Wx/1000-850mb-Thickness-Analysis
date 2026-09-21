@@ -9,6 +9,8 @@ The project combines NOAA/NWS upper-air observations with the daily Miami climat
 NOAA/NWS Data
 ↓
 Upper-Air + Climate Data Collection
+This is scheduled to run after the Morning Climate Summary the following day which reports the high temperature the day before, sounding data gets 18Z yesterday and today 00Z and averages the value.
+If only one sounding is available then it just uses that value. 
 ↓
 Analysis-Ready CSV
 ↓
